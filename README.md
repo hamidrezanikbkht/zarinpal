@@ -1,4 +1,4 @@
-- [Demo Project](https://hamidrezanikbkht.github.io/salon/)
+- [Demo Project](https://hamidrezanikbkht.github.io/zarinpal/)
 
 - Developed by hamidreza nikbakht
 
