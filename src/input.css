@@ -1,0 +1,58 @@
+@import "tailwindcss";
+@font-face {
+    font-family: 'Iran';
+    src: url('font/Cinzel-VariableFont_wght.ttf') format('woff2');
+    
+  }
+  /* Byekan Custom Font by fontchi.com */
+
+/* Byekan Custom Font by fontchi.com */
+@font-face {
+  font-family: 'BYEKN';
+  src: url('fonts/BYEKAN.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+/* Byekan Custom Font by fontchi.com */
+@font-face {
+  font-family: 'BYEKAN';
+  src: url('fonts/BYEKAN.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+/* IranYekan Custom Font by fontchi.com */
+@font-face {
+  font-family: 'iranyekan';
+  src: url('fonts/iranyekan-regular.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'iranyekan';
+  src: url('fonts/iranyekan-bold.woff2') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'gh';
+  src: url('font/BigShoulders-VariableFont_opsz\,wght.ttf') format('woff2');
+
+}
+@font-face {
+  font-family: 'sad';
+  src: url('font/Vazir-Medium.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'zzz';
+  src: url('font/A\ MehdiHeydari.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'sahel';
+  src: url('font/Far_Esfehan.ttf MehdiHeydari.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
